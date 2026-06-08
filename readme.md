@@ -1,4 +1,4 @@
-![image](assets/graphics/Project-Luminus.png)
+![image](assets/graphics/Project Luminus.png)
 # About
 --------
 Project Luminus is a distro for x86x64 thats designed for people getting used to linux that is intreasted in cybersecurity. Made on top of EOS, Luminus is designed to be a middle between Kali linux and Blackarch. Luminus, by default has an dual desktop environment setup of lightdm with Niri+dms And Xfce4. The reason its setup like this is for those who prefer a mix of Unix and Linux desktops
@@ -14,10 +14,13 @@ The main reason I created Luminus is because I wanted a distro for those who are
 # Documents
 --------
 
-Builtin-Runtimes [assets/packages/runtimes.md]
-Scanning Packages [assets/packages/security-scanning.md]
-Default-Applications [assets/packages/default-applications.md]
-Firewalls []
+[Builtin-Runtimes](assets/packages/runtimes.md)
+
+[Scanning Packages](assets/packages/security-scanning.md)
+
+[Default-Applications](assets/packages/default-applications.md)
+
+[Firewalls]()
 
 # Installation
 ---------
@@ -27,13 +30,16 @@ Firewalls []
 # Translation
 ---------
 Русский перевод[]
+
 Traducción al español[]
+
 한국어 번역[]
+
 हिन्दी अनुवाद[]
 
-# Roadmap
--------
-Repair eza env
 
-Translations below are created using Papago[https://papago.naver.com/]
+-------
+
+Translations below are created using [Papago](https://papago.naver.com/)
+
 Project Luminus is under the General Public License v3.0
